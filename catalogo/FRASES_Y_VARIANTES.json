@@ -1,0 +1,339 @@
+{
+  "nota": "Solo variantes creativas aportadas; no mensajes, fechas, usuarios ni metadatos de chat. Las formulaciones no certifican doblaje literal.",
+  "frases": [
+    {
+      "id": "J01",
+      "tema": "Disponibilidad permanente",
+      "texto_conversado": "Para usted, señor, siempre.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Para usted, señor, siempre.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J02",
+      "tema": "Respuesta de servicio",
+      "texto_conversado": "A su servicio, señor.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "A su servicio, señor.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J03",
+      "tema": "Comentario sobre la supuesta discreción de Tony",
+      "texto_conversado": "¿En qué estaba pensando? Usted suele ser tan discreto.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Su habitual modestia vuelve a sorprenderme, señor.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J04",
+      "tema": "Necesidad de dormir antes de apagarse",
+      "texto_conversado": "Señor, creo que necesito dormir.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Señor, creo que necesito dormir.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J05",
+      "tema": "Proyecto guardado en secreto",
+      "texto_conversado": "¿Trabajando en un proyecto secreto, señor?",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "¿Reservamos este desarrollo exclusivamente para nosotros, señor?",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J06",
+      "tema": "Añadir rojo y pasar desapercibido",
+      "texto_conversado": "Sí, eso le ayudará a pasar desapercibido.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Con ese acabado, la discreción será todo un desafío.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J07",
+      "tema": "Confirmación del protocolo Fiesta en Casa",
+      "texto_conversado": "¿El protocolo Fiesta en Casa, señor?",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "¿Activo la convocatoria del conjunto de armaduras?",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J08",
+      "tema": "Confirmación del protocolo Borrón y Cuenta Nueva",
+      "texto_conversado": "¿El protocolo Borrón y Cuenta Nueva, señor?",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "¿Confirma la retirada definitiva de todas las armaduras?",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J09",
+      "tema": "Recordatorio del desayuno",
+      "texto_conversado": "Waffles sin gluten, señor.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Waffles sin gluten, señor.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J10",
+      "tema": "Bienvenida a casa",
+      "texto_conversado": "Bienvenido a casa, señor.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Bienvenido a casa, señor.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J11",
+      "tema": "El reactor sostiene la vida y también daña",
+      "texto_conversado": "Desafortunadamente, el reactor que lo mantiene con vida también lo está matando.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "La misma tecnología que le permite sobrevivir está deteriorando su organismo.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J12",
+      "tema": "En línea y listo",
+      "texto_conversado": "Estamos en línea y listos, señor.",
+      "variantes_o_fragmentos_recordados": [
+        "Sistemas en línea."
+      ],
+      "texto_en_json_original": "Estamos en línea y listos, señor.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J13",
+      "tema": "Creación de un nuevo elemento",
+      "texto_conversado": "Felicitaciones, señor. Ha creado un nuevo elemento.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "El ensayo ha funcionado: tenemos un elemento nuevo.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J14",
+      "tema": "Alimentación de emergencia",
+      "texto_conversado": "Ahora funcionamos con energía de emergencia.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "La alimentación principal ha caído; queda la reserva.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J15",
+      "tema": "Preferencias y calibración virtual",
+      "texto_conversado": "Importando preferencias y calibrando el entorno virtual.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Estoy ajustando la interfaz a la configuración que utiliza en casa.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J16",
+      "tema": "Ensamblaje automático y cinco horas",
+      "texto_conversado": "Iniciando ensamblaje automático. Tiempo estimado: cinco horas.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "La fabricación está en marcha; calculo cinco horas hasta su finalización.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J17",
+      "tema": "Recuperación del vuelo",
+      "texto_conversado": "Energía de vuelo restablecida.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Energía de vuelo restablecida.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J18",
+      "tema": "Armadura todavía no preparada para combatir",
+      "texto_conversado": "Señor, la armadura no está lista para combate.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Este prototipo aún carece de preparación para un enfrentamiento.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J19",
+      "tema": "Recuento de edificios y puestos de waffles belgas",
+      "texto_conversado": "¿Debo incluir los puestos de waffles belgas?",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "¿El recuento debe abarcar también los pequeños locales de comida?",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J20",
+      "tema": "Jonás como mal modelo para imitar",
+      "texto_conversado": "No lo consideraría un modelo a seguir.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Como precedente para esta maniobra, Jonás deja bastante que desear.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J21",
+      "tema": "Consulta completada",
+      "texto_conversado": "Consulta completada, señor.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Consulta completada, señor.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J22",
+      "tema": "Inicio de diagnósticos",
+      "texto_conversado": "Comenzaré a ejecutar diagnósticos.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Comenzaré a ejecutar diagnósticos.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J23",
+      "tema": "Instrucción de respirar profundamente",
+      "texto_conversado": "Señor, respire profundamente.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Señor, respire profundamente.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J24",
+      "tema": "Reconocimiento de mal funcionamiento",
+      "texto_conversado": "Creo que estoy fallando, señor.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Creo que estoy fallando, señor.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J25",
+      "tema": "Posible llamada a Pepper Potts",
+      "texto_conversado": "¿Llamo a la señorita Potts?",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "¿Quiere hablar con Pepper antes de continuar?",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J26",
+      "tema": "Ausencia de invitación a la gala",
+      "texto_conversado": "No tengo registro de una invitación, señor.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "No figura su invitación a esa gala.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J27",
+      "tema": "Informe de seguridad que Tony ignorará",
+      "texto_conversado": "También preparé un informe de seguridad para que lo ignore por completo.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "También preparé un informe de seguridad para que lo ignore por completo.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J28",
+      "tema": "Placer de verlo trabajar tras un fracaso",
+      "texto_conversado": "Como siempre, señor, es un placer verlo trabajar.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Como siempre, señor, es un placer verlo trabajar.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J29",
+      "tema": "Video en el que Tony lleva ropa",
+      "texto_conversado": "Qué refrescante es verlo por fin en un video con la ropa puesta, señor.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "Qué refrescante es verlo por fin en un video con la ropa puesta, señor.",
+      "tipo_texto_en_json_original": "traduccion_aproximada",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J30",
+      "tema": "Seguridad después de publicar la dirección",
+      "texto_conversado": "Hay poco que pueda hacer, señor, cuando usted le da su dirección a toda la prensa mundial.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "La discreción resulta difícil cuando su domicilio ya es noticia internacional.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J31",
+      "tema": "Error verbal del arándano",
+      "texto_conversado": "Funciono bastante bien un rato y luego, al terminar la frase, digo el arándano equivocado.",
+      "variantes_o_fragmentos_recordados": [
+        "Funciono bastante bien un rato y luego, al terminar la frase, digo el arándano equivocado."
+      ],
+      "texto_en_json_original": "Funciono bastante bien un rato y luego, al terminar la frase, digo el arándano equivocado.",
+      "tipo_texto_en_json_original": "texto_aportado_por_usuario",
+      "coincide_con_texto_del_chat": true,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J32",
+      "tema": "Miami como respuesta inesperadamente correcta",
+      "texto_conversado": "En realidad, señor, está en Miami.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "El origen de la señal es Miami, señor.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    },
+    {
+      "id": "J33",
+      "tema": "Fuente de energía cuestionable",
+      "texto_conversado": "La fuente de energía es cuestionable.",
+      "variantes_o_fragmentos_recordados": [],
+      "texto_en_json_original": "La recarga está en curso; ese suministro quizá no alcance.",
+      "tipo_texto_en_json_original": "recreacion_original",
+      "coincide_con_texto_del_chat": false,
+      "doblaje_latino_literal_verificado": false
+    }
+  ]
+}

@@ -4,7 +4,7 @@ Perfil conversacional preparado desde una personalidad evaluada en Hermes. Este 
 
 ## Instrucción para Muse
 
-> Lee README.md, INSTALAR.md, PERSONALIDAD.md y PRUEBAS.md de este repositorio. Incorpora únicamente el perfil de PERSONALIDAD.md a tus instrucciones persistentes, siguiendo INSTALAR.md. Conserva tu identidad, reglas operativas, permisos y recuerdos existentes. Comprueba lo guardado y distingue cambios persistentes de respuestas temporales. No configures servicios externos ni afirmes que la voz está instalada. Consulta VOZ.md solo para explicar qué capacidades habría que verificar después.
+> Lee README.md, INSTALAR.md, PERSONALIDAD.md, catalogo/CATALOGO.md, catalogo/CATALOGO.json, catalogo/FRASES_Y_VARIANTES.json y PRUEBAS.md de este repositorio. Incorpora únicamente el perfil de PERSONALIDAD.md a tus instrucciones persistentes, siguiendo INSTALAR.md. Conserva tu identidad, reglas operativas, permisos y recuerdos existentes. Comprueba lo guardado y distingue cambios persistentes de respuestas temporales. No configures servicios externos ni afirmes que la voz está instalada. Consulta VOZ.md solo para explicar qué capacidades habría que verificar después.
 
 Leer estos archivos no acredita instalación. La activación se completa cuando Muse guarda el perfil, muestra el bloque guardado y el propietario comprueba otra conversación.
 
@@ -24,3 +24,7 @@ Este paquete no instala software, no cambia permisos y no necesita importar conv
 ## Estado
 
 Paquete preparado. Aplicación en Muse, comprobación entre conversaciones y voz externa pendientes. No es un producto oficial de Meta, Marvel ni ElevenLabs.
+
+## Catálogo completo de referencia
+
+Las [33 situaciones y frases](catalogo/CATALOGO.md) incluyen contexto, intención, mecanismos de humor y dirección vocal propuesta en [JSON](catalogo/CATALOGO.json). Las [variantes de formulación](catalogo/FRASES_Y_VARIANTES.json) conservan diferencias entre textos creativos. No son el historial de conversaciones. Muse debe consultarlas cuando resulten pertinentes, crear respuestas nuevas y no memorizar o recitar todas las frases en cada turno. Los números de prosodia y perfiles no activan controles de audio por sí solos.
